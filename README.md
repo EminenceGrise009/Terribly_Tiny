@@ -1,1 +1,21 @@
 # Terribly_Tiny
+<!DOCTYPE html>: Defines the document type and version of HTML.
+<html lang="en">: Defines the HTML document with the English language.
+<head>: Contains metadata for the document.
+<meta charset="UTF-8">: Sets the character encoding to UTF-8.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Configures the viewport for mobile responsiveness.
+<title>A Changing World Order</title>: Sets the title of the page.
+<link rel="stylesheet" href="styles.css">: Links an external CSS file.
+<body>: Contains the visible content of the webpage.
+<header>: Represents the header section.
+.title and .subtitle: Display the main title and subtitle.
+.profile-image: Shows the profile picture.
+.tabs: Represents tabs for navigation.
+<main class="posts">: Represents the main section for posts.
+.post: Represents each individual post.
+Elements inside .post display the post title, content, author, and date.
+body: Sets a general reset for margins, padding, and font-family.
+header: Styles the header section.
+.title, .subtitle, .profile-image, .tabs: Styles specific elements within the header section.
+.posts: Styles the main section for posts.
+.post: Styles individual post elements such as title, text, author, and date.
