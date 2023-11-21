@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Changing World Order</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="title">Terribly Tiny Tales</div>
+    <div class="subtitle">Stories and courses by Anuj Gosalia</div>
+    <img class="profile-image" src="http://www.instagram.com/anuggocalin" alt="Profile picture of Anuj Gosalia">
+    <ul class="tabs">
+      <li class="active">STORIES</li>
+      <li>COURSES</li>
+    </ul>
+  </header>
+  
+  <main class="posts">
+    <div class="post">
+      <div class="title">A Changing World Order</div>
+      <div class="text">The world is changing at a feverish pace...</div>
+      <div class="author">musing by anujgosalia</div>
+      <div class="date">August 2 - 2 mins Read - 102 Views</div>
+    </div>
+    <!-- Other posts here -->
+  </main>
+</body>
+</html>
